@@ -1,4 +1,4 @@
-^
+
 # Machine Learning Pipeline Project
 
 ## Overview
@@ -13,5 +13,5 @@ This project demonstrates a comprehensive machine learning pipeline, encompassin
 - **Model Evaluation**: Assessment of model performance using appropriate metrics.
 - **Model Deployment**: Deployment of the trained model as a RESTful API for real-time predictions.
 
-# End to ENd ML Project
+# End to End ML Project
 
